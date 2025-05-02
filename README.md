@@ -11,7 +11,8 @@ A simple portfolio website built using HTML and CSS.
 -CSS
 
 ## Demo 
-coming soon
+https://swapnil414.github.io/personal-portfolio/
 
 ##Screenshots
+Coming Soon
 
